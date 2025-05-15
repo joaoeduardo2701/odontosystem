@@ -1,0 +1,63 @@
+.agendar {
+    background-color: #8EB6DC;
+    height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.agendar h1 {
+    font-size: 50px;
+}
+
+.agendar p {
+    margin-top: 25px;
+    font-size: 18px;
+}
+
+.dividir {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+}
+
+.dividir-paragrafo {
+    width: 800px;
+    color: white;
+    font-size: 17px;
+}
+
+.dividir-formulario {
+    background-color: white;
+    height: 600px;
+    width: 900px;
+    padding: 50px;
+}
+
+.caixa {
+    margin-top: 50px;
+    border: 1px solid black;
+    border-radius: 20px;
+    // box-shadow: 3px 3px 3px gray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.dividir-formulario h2 {
+    text-align: center;
+    color: #1470AF;
+}
+
+.dividir-formulario h3 {
+    font-size: 25px;
+    color: #1470AF;
+}
+
+.dividir-formulario p {
+    font-weight: bold;
+    font-size: 18px;
+}

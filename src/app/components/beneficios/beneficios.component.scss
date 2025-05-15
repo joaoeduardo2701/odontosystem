@@ -1,0 +1,31 @@
+.beneficios {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.beneficios h1 {
+    color: #1470AF;
+    font-size: 50px;
+}
+
+.beneficios-grupo {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    margin-top: 80px
+}
+
+.beneficio-item img {
+    width: 300px;
+    border-radius: 50%;
+}
+
+.beneficio-item p {
+    margin-top: 20px;
+    font-size: 17px;
+}
+
+.beneficio-item h2 {
+    margin-top: 50px;
+    color: #1470AF;
+}
